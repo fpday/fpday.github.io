@@ -80,7 +80,8 @@ a.list-group-item.active,[class*='-info'] {
 }
 
 #section5,#section7,#section7 a {
-    color:#f5f5f5;
+	background-color: #e5e5ef;
+    color:#686868;
 }
 
 #section6 {
