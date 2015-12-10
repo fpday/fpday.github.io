@@ -89,6 +89,10 @@ a.list-group-item.active,[class*='-info'] {
     color:#222;
 }
 
+#section6 img {
+    margin: 15px;
+}
+
 footer {
 	background-color:#494949;
     color:#ddd;
